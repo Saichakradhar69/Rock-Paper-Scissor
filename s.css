@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif ;
+    border: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    
+}   
+.play{
+    background-color: transparent;
+    width: 100px;
+    cursor: pointer;
+}
+.paperemoji{
+    width:100px;
+}
+.scissoremoji{
+    width:60px;
+}
+.emoji{
+    width:75px;
+}
+.reset{
+    background-color: aliceblue;
+    color:black;
+    padding: 10px;
+    font: 300;
+    border-radius: 5px;
+
+}
